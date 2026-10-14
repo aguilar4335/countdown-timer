@@ -49,7 +49,7 @@ startBtn.addEventListener("click", () => {
         para.innerHTML = "Times Up!";
       }
     
-    }, 6);
+    }, 1000);
 
 })
 
